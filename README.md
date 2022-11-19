@@ -1,5 +1,5 @@
 Hi there 👋
-Here are some ideas to get you started:
+-Here are some ideas to get you started:
 - 🔭 I’m currently studying at KGiSL Institute of Technology
 - 🌱 I’m currently learning AI | ML | IoT | Flutter | 
 - 💬 Read More about my Learning : [Medium](https://suryacreatx.medium.com/)
